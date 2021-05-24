@@ -1,5 +1,3 @@
-**1. About:**
-
 **General:**
 
 DeskGrid is a windows desktop program for creating a custom windows desktop overlay (desktop profile) based on the Windows desktop icons style.
