@@ -21,35 +21,35 @@ The program offers the following main functionalities:
 This is the desktop profile editor screen where you can (among other things) apply group colors to icons, reposition the icons in different kind of ways, and change the overlay theme properties:
 
 ![](/screenshot1.jpg)
-![](DeskGrid-release/screenshot8.jpg)
+![](/screenshot8.jpg)
 
 For the group colors you can choose and create your own color palettes:
-![](DeskGrid-release/screenshot10.jpg)
+![](/screenshot10.jpg)
 
 This is the desktop grid screen in which you have a clear overview over all the grid cells and the icons in it:
 
-![](DeskGrid-release/screenshot2.jpg)
+![](/screenshot2.jpg)
 
 This is the icon listview screen where you can see all the icons of your desktop profile in a sortable listview. When you click on an icon in the listview the icon edit window 
 opens:
 
-![](DeskGrid-release/screenshot3.jpg)
+![](/screenshot3.jpg)
 
 Each icon can have a custom icon attached to it which you can choose in the system icons screen:
 
-![](DeskGrid-release/screenshot4.jpg)
+![](/screenshot4.jpg)
 
 In this screen you can create user profiles and choose which categories of software a certain user uses. Then you can create a new desktop profile based on the selected user profile settings.
 
-![](DeskGrid-release/screenshot5.jpg)
+![](/screenshot5.jpg)
 
 In this screen you can scan your installed software programs and then easily create icons for them. 
 
-![](DeskGrid-release/screenshot11.jpg)
+![](/screenshot11.jpg)
 
 Examples of the actual desktop overlay:
-![](DeskGrid-release/screenshot6.jpg)
-![](DeskGrid-release/screenshot7.jpg)
-![](DeskGrid-release/screenshot9.jpg)
+![](/screenshot6.jpg)
+![](/screenshot7.jpg)
+![](/screenshot9.jpg)
 
 
