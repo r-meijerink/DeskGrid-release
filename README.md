@@ -1,3 +1,5 @@
+<img src="/grid2.png" width="200" height="200">
+
 **General:**
 
 DeskGrid is a windows desktop program for creating a custom windows desktop overlay (desktop profile) based on the Windows desktop icons style.
