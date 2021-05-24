@@ -1,5 +1,7 @@
 **General:**
 
+This is the public release repository of Deskgrid where you can download the latest version of the windows desktop program: DeskGrid (the sourcecode of DeskGrid resides in a private github repository).
+
 DeskGrid is a windows desktop program for creating a custom windows desktop overlay (desktop profile) based on the Windows desktop icons style.
 You can (among other things) apply group colors to icons, regroup and sort the icons in different kind of ways, and apply themes to your desktop overlay.
 
