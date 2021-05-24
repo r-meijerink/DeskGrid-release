@@ -20,7 +20,7 @@ The program offers the following main functionalities:
 
 This is the desktop profile editor screen where you can (among other things) apply group colors to icons, reposition the icons in different kind of ways, and change the overlay theme properties:
 
-![](DeskGrid-release/screenshot1.jpg)
+![](/screenshot1.jpg)
 ![](DeskGrid-release/screenshot8.jpg)
 
 For the group colors you can choose and create your own color palettes:
