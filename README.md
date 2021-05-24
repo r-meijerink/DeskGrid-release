@@ -3,6 +3,7 @@
 **General:**
 
 This is the public release repository of Deskgrid where you can download the latest version of DeskGrid (the sourcecode of DeskGrid resides in a private github repository):
+
 https://github.com/r-meijerink/DeskGrid-release/releases/tag/v1.0
 
 DeskGrid is a windows desktop program for creating a custom windows desktop overlay (desktop profile) based on the Windows desktop icons style.
