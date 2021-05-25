@@ -13,7 +13,8 @@ The program offers the following main functionalities:
 
 - Create and save multiple custom desktop profiles (desktop overlays). You can create a new desktop profile by scanning your current windows desktop icons or start from an empthy grid.
 - Easily auto-group, reposition, and sort icons on the desktop profile.
-- Create your own custom icon packs for your icons and create your own color palettes.
+- Functionality to create your own custom icon packs for your icons.
+- Functionality to create your own color palettes.
 - Apply different themes to your overlay (windows tiles / windows desktop and more) and change all kind of overlay theme properties to fully customize it to your taste.
 
 - Easily create icons from your list of installed programs.
