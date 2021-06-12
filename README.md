@@ -30,6 +30,8 @@ This is the desktop profile editor screen where you can (among other things) app
 ![](/screenshot1-2.jpg)
 ![](/screenshot1-3.jpg)
 ![](/screenshot1-4.jpg)
+![](/screenshot1-5.jpg)
+
 
 For the group colors you can choose and create your own color palettes:
 ![](/screenshot10.jpg)
