@@ -57,6 +57,7 @@ In this screen you can scan your installed software programs and then easily cre
 
 Examples of the actual desktop overlay:
 ![](/screenshot6.jpg)
+![](/screenshot6-1.jpg)
 ![](/screenshot7.jpg)
 ![](/screenshot9.jpg)
 
