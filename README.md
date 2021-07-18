@@ -25,10 +25,10 @@ The program offers the following main functionalities:
 
 This is the desktop profile editor screen where you can (among other things) apply group colors to icons, reposition the icons in different kind of ways, and change the overlay theme properties:
 
-(dark theme)
+(Dark theme)
 ![](/screenshot1.jpg)
 
-(light theme)
+(Light theme)
 ![](/screenshot1-7.jpg)
 
 ![](/screenshot1-1.jpg)
